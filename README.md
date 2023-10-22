@@ -39,3 +39,8 @@ the charge density are made using the method of moments. Following this, we will
 equations in ‘N’ distinct variables, which can then be solved using numerical methods like
 Gaussian elimination, Gauss-Jordan algorithm, TDMA or others of this kind, depending on
 the equations obtained after performing the above-mentioned steps.
+
+## Acknowledgement
+We (the group involved in making of this project) extend our heartfelt gratitude to Dr. Soumyabrata Chakrabarty (scientist - ISRO SAC, professor - IITGN) for providing the
+problem statement and invaluable guidance that shaped our group project. His expertise
+and continuous support were instrumental in defining the project’s direction and scope.
