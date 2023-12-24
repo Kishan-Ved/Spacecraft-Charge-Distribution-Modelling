@@ -5,21 +5,7 @@ Understanding the interaction of a spacecraft with the outer space environment f
 crucial part of its functioning. Various phenomena including solar radiation, plasma interaction, dielectric charging, etc, cause a spacecraft to acquire a net charge, which is
 non-uniformly distributed. This charge distribution poses a risk to the functioning of the
 spacecraft. Unevenly distributed charge on a spacecraft’s surface can potentially be harmful
-for several reasons including:
-
-• Electrostatic forces: The uneven charge can cause electrostatic forces to act which
-can attract or repel nearby charged particles in space. This can affect the spacecraft’s
-orientation and trajectory, making it unstable.
-
-• Surface charging: Charged particles in outer space can lead to localized regions of
-surface charging. These can create electrical discharges such as Corona discharge or
-arcing, which can damage sensitive spacecraft components.
-
-• Radio frequency interference: Uneven charge distribution can also result in radio
-frequency interference. This interference can harm spacecraft communication systems.
-
-• Thermal effects: Unevenly charged surfaces may heat or cool down unevenly, affecting the temperature distribution. This can impact efficiency and lead to overheating
-or freezing of critical components.
+for several reasons including: Radio frequency interference, Surface charging, Electrostatic forces, Thermal effects etc.
 
 It is therefore necessary to study and quantify the charge distribution on the surface of the
 spacecraft in a mathematical way.
