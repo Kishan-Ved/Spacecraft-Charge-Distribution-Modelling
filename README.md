@@ -1,5 +1,12 @@
 # Spacecraft-Charge-Distribution-Modelling
 This project involves mathematically modelling the charge distribution on the surface of a spacecraft in outer space orbits.
+
+### Contents
+
+[Detailed report with theory](https://github.com/Kishan-Ved/Spacecraft-Charge-Distribution-Modelling/blob/main/Mathonauts_MA203_project_report.pdf)
+[Poster PDF](https://github.com/Kishan-Ved/Spacecraft-Charge-Distribution-Modelling/blob/main/Math%20Final%20Poster_Group34%20(1).pdf)
+[Code](https://github.com/Kishan-Ved/Spacecraft-Charge-Distribution-Modelling/blob/main/NM_spacecraft_project.ipynb)
+
 ## Problem Statement
 Understanding the interaction of a spacecraft with the outer space environment forms a
 crucial part of its functioning. Various phenomena including solar radiation, plasma interaction, dielectric charging, etc, cause a spacecraft to acquire a net charge, which is
