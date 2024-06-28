@@ -13,6 +13,9 @@ spacecraft in a mathematical way.
 The goal of this project is to mathematically model the charge distribution on the surface of the spacecraft in outer space orbits. For the sake of simplicity as well as relevance
 to current applications, we have chosen a spacecraft modeled on CUBESAT to study the charge distribution profile of its body. We are considering the body of the spacecraft to be a symmetric metallic cube, with a specified edge length. This helps us to focus more on the methodology of arriving at our result by simplifying the object under consideration.
 
+## Poster
+Given below is the image of our poster. For better clarity, please access this pdf file. [Poster PDF](https://github.com/Kishan-Ved/Spacecraft-Charge-Distribution-Modelling/blob/main/Math%20Final%20Poster_Group34%20(1).pdf)
+
 ![poster_image](./poster_image.jpg)
 
 The electric potential on the spacecraft body has only small local variations, so it is generally
